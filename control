@@ -1,0 +1,9 @@
+Package: com.yourname.filzawallpaper
+Name: FilzaWallpaper
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Custom wallpaper background for Filza file manager
+Maintainer: you
+Author: you
+Section: Tweaks
+Depends: firmware (>= 14.0)
